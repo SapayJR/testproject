@@ -22,7 +22,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <ссылка_на_ваш_репозиторий>
+git clone https://github.com/SapayJR/testproject.git
 cd testproject
 ```
 ## Установите зависимости:
